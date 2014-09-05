@@ -21,6 +21,8 @@ Ext.define('TIC.view.Main', {
         xtype: 'tabpanel',
         items:[{
             title: 'Center Tab 1'
+        },{
+            title: 'Center Tab 2'
         }]
     }]
 });
